@@ -14,7 +14,7 @@ see task [here](task.pdf)
 
 ## Usage examples
 
-import:
+import:  
 `import com.alexandermusikyan.IndexingLibrary;`
 
 Usage:
